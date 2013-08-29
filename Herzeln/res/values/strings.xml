@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Herzeln</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Punkte Zählen</string>
+    <string name="title_section2">Grafik</string>
+    <string name="Button1">Runde eingeben</string>
+    <string name="Button2">Neues Spiel</string>
+    <string name="player1">Spieler 1</string><string name="player2">Spieler 2</string><string name="player3">Spieler 3</string>
+    <string name="player4">Spieler 4</string>
+    <string name="new_game">Neues Spiel starten:</string>
+    <string name="ok">OK</string>
+
+</resources>
